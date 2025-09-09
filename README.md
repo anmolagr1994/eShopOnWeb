@@ -2,6 +2,7 @@
 
 addv2.0
 addv3.0
+add feature01 through new branch
 
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
 
